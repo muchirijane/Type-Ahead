@@ -2,6 +2,9 @@
 This is a Type Ahead mini project mostly focused on Javascript. 
 <br>
 <br>
+<img src ='img/screen-1.png'>
+<br>
+<br>
 Things i learnt while making this project was:
  <ul>
     <li> How to use pre-made Json file </li>
