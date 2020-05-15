@@ -15,4 +15,7 @@ Things i learnt while making this project was:
   
   <br>
   <br>
+ <img src = 'img/scren-2.png' >
+  <br>
+  <br>
 This project was mainly for searching a city or a state and getting the population data of each place.
